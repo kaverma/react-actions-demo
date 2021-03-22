@@ -2,16 +2,16 @@
 
 <Add a diagram to show workflow 1 and workflow 2>
 
-Workflow 1 will focus on creating a CI workflow for our [app](Need link to this). 
+**Workflow 1** will focus on creating a CI workflow for our [app](Need link to this). 
 At the end of this exercise we will learn -
-a) How to create a new CI workflow 
-b) About Workflow templates 
-c) Using Intellisense in UI Action authoring  
-d) Configuring Action triggers and type of triggers 
-e) About Job strategies 
-f) Publishing to Packages  
+1. How to create a new CI workflow 
+2. About Workflow templates 
+3. Using Intellisense in UI Action authoring  
+4. Configuring Action triggers and type of triggers 
+5. About Job strategies 
+6. Publishing to Packages  
 
-Workflow 2 will focus on creating a CD workflow 
+**Workflow 2** will focus on creating a CD workflow 
 
 :bookmark: The following instructions will take on the assumption that you will be completing the steps on the GitHub UI. Feel free to use the terminal or any other GUIs you are comfortable with.
 
